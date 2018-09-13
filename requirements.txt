@@ -1,0 +1,7 @@
+Flask>=0.12
+Flask-Cors
+Flask-Heroku
+beautifulsoup4
+lxml
+requests
+gunicorn

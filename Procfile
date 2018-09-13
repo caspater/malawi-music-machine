@@ -1,0 +1,1 @@
+web: gunicorn -w 4 -b $HEROKU_HOST:$HEROKU_PORT malawi_music_machine:app

@@ -1,0 +1,8 @@
+{
+  "name": "Malawi Music Machine",
+  "description": "Malawi Music Machine is an experimental project to build an API and tools over malawi-music.com",
+  "image": "heroku/python",
+  "repository": "https://github.com/weekend-bytes/malawi-music-machine",
+  "keywords": ["python", "flask", "malawi-music", "api" ],
+  "addons": [ "heroku-postgresql"]
+}
